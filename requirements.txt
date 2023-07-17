@@ -1,0 +1,7 @@
+asyncio~=3.4.3
+tk
+datetime~=5.1
+requests~=2.31.0
+python-telegram-bot
+telegram~=0.0.1
+subprocess
